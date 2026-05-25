@@ -87,6 +87,14 @@ This is why ADG is broader than rule tuning alone. It includes:
 - [ADG-References.md](ADG-References.md): source register and research anchors
 - Foundational essay: *Before Triage: Adaptive Detection Governance as the Upstream Layer Security Operations Is Missing* — published on Medium
 
+## Citation
+
+If you reference ADG in writing, use the Zenodo DOI:
+
+```
+Romero Lara, Gerardo Eliud. Adaptive Detection Governance (ADG). Version 0.1. Zenodo, 2026. https://doi.org/10.5281/zenodo.20371975
+```
+
 ## Current Positioning
 
 The strongest defensible claim for ADG is not that it invented all upstream detection-quality work. It is that ADG names, specifies, and consolidates a fragmented upstream governance layer into a vendor-neutral capability framework.
