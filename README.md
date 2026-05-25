@@ -85,8 +85,7 @@ This is why ADG is broader than rule tuning alone. It includes:
 - [ADG-Functional-Spec-v0.1.md](ADG-Functional-Spec-v0.1.md): the full functional specification
 - [ADG-Self-Assessment.md](ADG-Self-Assessment.md): practical evaluation checklist
 - [ADG-References.md](ADG-References.md): source register and research anchors
-- [articles/01-before-triage.md](articles/01-before-triage.md): foundational Medium essay draft
-- [distribution/launch-checklist.md](distribution/launch-checklist.md): publication and outreach checklist
+- Foundational essay: *Before Triage: Adaptive Detection Governance as the Upstream Layer Security Operations Is Missing* — published on Medium
 
 ## Current Positioning
 
